@@ -1,0 +1,8 @@
+C:\Jarvis\jarvis-windows>
+
+venv\Scripts\activate
+
+caso aconteca algum erro nesse comando anterior coloque: 
+python -m pip install Pillow
+
+python main.py
